@@ -1,0 +1,59 @@
+.navbar.navbar-fixed-top {
+  border-bottom: 1px solid lightgrey;
+  box-shadow: 1px 1px lightgrey;
+  position: relative;
+}
+
+/*image styles*/
+.image {
+  margin-top: 5%;
+}
+
+/* QUESTIONAIRE in the profile */
+.text {
+  border: 2px solid black;
+  padding: 3%;
+}
+
+
+.leftText {
+  font-weight: bold;
+}
+
+.bigText {
+  font-size: 2em;
+}
+
+.boldText {
+  font-weight: bold;
+}
+
+.glyphicon {
+  color: darkblue;
+}
+
+/*pie chart styles*/
+.pie {
+  margin-top: 2%;
+  position: relative;
+}
+.pie-title-center {
+  color: black;
+  display: inline-block;
+  position: relative;
+  text-align: center;
+  padding: 1%;
+}
+/*the text inside the circles*/
+.pie-values {
+  color: black;
+  display: block;
+  font-size: 18px;
+  height: 40px;
+  line-height: 40px;
+  left: 0;
+  margin-top: -20px;
+  position: absolute;
+  right: 0;
+  top: 50%;
+}
